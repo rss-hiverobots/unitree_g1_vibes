@@ -49,12 +49,17 @@ def gst_pipeline(client_ip: str, w: int, h: int, fps: int) -> tuple[Gst.Pipeline
         # RGB -----------------------------------------------------------------
         f"appsrc name=src_rgb is-live=true do-timestamp=true format=time caps={rgb_caps} ! "
         "videoconvert ! nvvidconv ! nvv4l2h264enc bitrate=4000000 insert-sps-pps=true idrinterval=15 ! "
-        f"rtph264pay config-interval=1 pt=96 ! udpsink host={client_ip} port=5600 sync=false "
+        "rtph264pay config-interval=1 pt=96 ! "
+        "application/x-rtp, media=video, encoding-name=H264, payload=96 ! "
+        f"udpsink host={client_ip} port=5600 sync=false "
         # Depth ---------------------------------------------------------------
         f"appsrc name=src_depth is-live=true do-timestamp=true format=time caps={depth_caps} ! "
         "videoconvert ! nvvidconv ! nvv4l2h264enc bitrate=2000000 insert-sps-pps=true idrinterval=15 ! "
-        f"rtph264pay config-interval=1 pt=97 ! udpsink host={client_ip} port=5602 sync=false"
+        "rtph264pay config-interval=1 pt=97 ! "
+        "application/x-rtp, media=video, encoding-name=H264, payload=97 ! "
+        f"udpsink host={client_ip} port=5602 sync=false"
     )
+
 
     pipeline = Gst.parse_launch(launch_description)
     src_rgb = pipeline.get_by_name("src_rgb")  # type: ignore

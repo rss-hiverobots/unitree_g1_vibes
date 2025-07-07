@@ -32,6 +32,7 @@ from __future__ import annotations
 
 import sys
 import time
+import numpy as np
 from typing import Optional
 
 import cv2
@@ -57,10 +58,9 @@ def colourise_depth(depth_frame: rs.depth_frame) -> cv2.Mat:
     blue.
     """
 
-    depth_image = cv2.cvtColor(
-        cv2.convertScaleAbs(depth_frame.get_data(), alpha=0.03), cv2.COLOR_GRAY2BGR
-    )
-    depth_coloured = cv2.applyColorMap(depth_image, cv2.COLORMAP_JET)
+    depth_data = np.asanyarray(depth_frame.get_data())  # Convert to numpy array
+    depth_8bit = cv2.convertScaleAbs(depth_data, alpha=0.03)  # Normalize to 8-bit
+    depth_coloured = cv2.applyColorMap(depth_8bit, cv2.COLORMAP_JET)  # Colorise
     return depth_coloured
 
 
@@ -160,7 +160,7 @@ def run(
             depth_frame = temporal_filter.process(depth_frame)
 
             # Convert RealSense frames to numpy arrays
-            colour_image = colour_frame.get_data()  # returns a numpy.ndarray in BGR order
+            colour_image = np.asanyarray(colour_frame.get_data())
             depth_coloured = colourise_depth(depth_frame)
 
             # Combine side-by-side for display (make sure both are same height)

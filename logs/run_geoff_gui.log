@@ -1,0 +1,327 @@
+2025-07-01 10:00:58,480  INFO      [ClientStub] send request error. id:
+2025-07-01 10:00:58,481  INFO      1032612252703
+2025-07-01 10:01:08,608  INFO      [ClientStub] send request error. id:
+2025-07-01 10:01:08,609  INFO      1042744071222
+2025-07-01 10:01:18,736  INFO      [ClientStub] send request error. id:
+2025-07-01 10:01:18,737  INFO      1052872223374
+2025-07-01 10:01:28,861  INFO      [ClientStub] send request error. id:
+2025-07-01 10:01:28,861  INFO      1063000080338
+2025-07-01 10:01:38,992  INFO      [ClientStub] send request error. id:
+2025-07-01 10:01:38,992  INFO      1073124710459
+2025-07-01 10:01:38,993  INFO      damp         → FSM None   mode None
+2025-07-01 10:01:49,121  INFO      [ClientStub] send request error. id:
+2025-07-01 10:01:49,122  INFO      1083256168880
+2025-07-01 10:01:59,246  INFO      [ClientStub] send request error. id:
+2025-07-01 10:01:59,247  INFO      1093385373331
+2025-07-01 10:02:09,370  INFO      [ClientStub] send request error. id:
+2025-07-01 10:02:09,370  INFO      1103510193692
+2025-07-01 10:02:09,370  INFO      stand_up     → FSM None   mode None
+2025-07-01 10:02:19,489  INFO      [ClientStub] send request error. id:
+2025-07-01 10:02:19,489  INFO      1113633534655
+2025-07-01 10:02:29,615  INFO      [ClientStub] send request error. id:
+2025-07-01 10:02:29,615  INFO      1123752672621
+2025-07-01 10:02:39,740  INFO      [ClientStub] send request error. id:
+2025-07-01 10:02:39,740  INFO      1133878813415
+2025-07-01 10:02:39,740  INFO      height 0.02 m → FSM None   mode None
+2025-07-01 10:02:49,867  INFO      [ClientStub] send request error. id:
+2025-07-01 10:02:49,868  INFO      1144003524402
+2025-07-01 10:02:59,992  INFO      [ClientStub] send request error. id:
+2025-07-01 10:02:59,992  INFO      1154131641443
+2025-07-01 10:03:10,118  INFO      [ClientStub] send request error. id:
+2025-07-01 10:03:10,118  INFO      1164255943010
+2025-07-01 10:03:20,246  INFO      [ClientStub] send request error. id:
+2025-07-01 10:03:20,247  INFO      1174381536775
+2025-07-01 10:03:20,247  INFO      height 0.04 m → FSM None   mode None
+2025-07-01 10:03:30,371  INFO      [ClientStub] send request error. id:
+2025-07-01 10:03:30,371  INFO      1184509992618
+2025-07-01 10:03:40,494  INFO      [ClientStub] send request error. id:
+2025-07-01 10:03:40,494  INFO      1194634527917
+2025-07-01 10:03:50,617  INFO      [ClientStub] send request error. id:
+2025-07-01 10:03:50,617  INFO      1204757397456
+2025-07-01 10:04:00,741  INFO      [ClientStub] send request error. id:
+2025-07-01 10:04:00,742  INFO      1214880673401
+2025-07-01 10:04:00,742  INFO      height 0.06 m → FSM None   mode None
+2025-07-01 10:04:10,865  INFO      [ClientStub] send request error. id:
+2025-07-01 10:04:10,866  INFO      1225005166672
+2025-07-01 10:04:21,018  INFO      [ClientStub] send request error. id:
+2025-07-01 10:04:21,018  INFO      1235158866646
+2025-07-01 10:04:31,145  INFO      [ClientStub] send request error. id:
+2025-07-01 10:04:31,145  INFO      1245281570055
+2025-07-01 10:04:41,270  INFO      [ClientStub] send request error. id:
+2025-07-01 10:04:41,270  INFO      1255408608723
+2025-07-01 10:04:41,270  INFO      height 0.08 m → FSM None   mode None
+2025-07-01 10:04:51,395  INFO      [ClientStub] send request error. id:
+2025-07-01 10:04:51,395  INFO      1265533564318
+2025-07-01 10:05:01,518  INFO      [ClientStub] send request error. id:
+2025-07-01 10:05:01,518  INFO      1275659068508
+2025-07-01 10:05:11,643  INFO      [ClientStub] send request error. id:
+2025-07-01 10:05:11,643  INFO      1285781624101
+2025-07-01 10:05:21,765  INFO      [ClientStub] send request error. id:
+2025-07-01 10:05:21,766  INFO      1295906384381
+2025-07-01 10:05:21,766  INFO      height 0.10 m → FSM None   mode None
+2025-07-01 10:05:31,888  INFO      [ClientStub] send request error. id:
+2025-07-01 10:05:31,889  INFO      1306029048127
+2025-07-01 10:05:42,011  INFO      [ClientStub] send request error. id:
+2025-07-01 10:05:42,011  INFO      1316152228117
+2025-07-01 10:05:52,136  INFO      [ClientStub] send request error. id:
+2025-07-01 10:05:52,136  INFO      1326274462595
+2025-07-01 10:06:02,258  INFO      [ClientStub] send request error. id:
+2025-07-01 10:06:02,258  INFO      1336399701411
+2025-07-01 10:06:02,259  INFO      height 0.12 m → FSM None   mode None
+2025-07-01 10:06:12,385  INFO      [ClientStub] send request error. id:
+2025-07-01 10:06:12,386  INFO      1346521988213
+2025-07-01 10:06:22,543  INFO      [ClientStub] send request error. id:
+2025-07-01 10:06:22,543  INFO      1356679234884
+2025-07-01 10:06:32,663  INFO      [ClientStub] send request error. id:
+2025-07-01 10:06:32,664  INFO      1366806514482
+2025-07-01 10:06:42,787  INFO      [ClientStub] send request error. id:
+2025-07-01 10:06:42,787  INFO      1376927045833
+2025-07-01 10:06:42,787  INFO      height 0.14 m → FSM None   mode None
+2025-07-01 10:06:52,911  INFO      [ClientStub] send request error. id:
+2025-07-01 10:06:52,912  INFO      1387050474314
+2025-07-01 10:07:03,040  INFO      [ClientStub] send request error. id:
+2025-07-01 10:07:03,040  INFO      1397175150289
+2025-07-01 10:07:13,170  INFO      [ClientStub] send request error. id:
+2025-07-01 10:07:13,171  INFO      1407303530019
+2025-07-01 10:07:23,295  INFO      [ClientStub] send request error. id:
+2025-07-01 10:07:23,295  INFO      1417433954076
+2025-07-01 10:07:23,296  INFO      height 0.16 m → FSM None   mode None
+2025-07-01 10:07:33,425  INFO      [ClientStub] send request error. id:
+2025-07-01 10:07:33,425  INFO      1427559104508
+2025-07-01 10:07:43,548  INFO      [ClientStub] send request error. id:
+2025-07-01 10:07:43,548  INFO      1437688342317
+2025-07-01 10:07:53,673  INFO      [ClientStub] send request error. id:
+2025-07-01 10:07:53,673  INFO      1447811847113
+2025-07-01 10:08:03,794  INFO      [ClientStub] send request error. id:
+2025-07-01 10:08:03,794  INFO      1457936461620
+2025-07-01 10:08:03,794  INFO      height 0.18 m → FSM None   mode None
+2025-07-01 10:08:13,923  INFO      [ClientStub] send request error. id:
+2025-07-01 10:08:13,923  INFO      1468057979979
+2025-07-01 10:08:24,053  INFO      [ClientStub] send request error. id:
+2025-07-01 10:08:24,053  INFO      1478186680641
+2025-07-01 10:08:34,181  INFO      [ClientStub] send request error. id:
+2025-07-01 10:08:34,181  INFO      1488316570205
+2025-07-01 10:08:44,307  INFO      [ClientStub] send request error. id:
+2025-07-01 10:08:44,307  INFO      1498444524267
+2025-07-01 10:08:44,307  INFO      height 0.20 m → FSM None   mode None
+2025-07-01 10:08:54,436  INFO      [ClientStub] send request error. id:
+2025-07-01 10:08:54,437  INFO      1508570746086
+2025-07-01 10:09:04,561  INFO      [ClientStub] send request error. id:
+2025-07-01 10:09:04,561  INFO      1518700182307
+2025-07-01 10:09:14,688  INFO      [ClientStub] send request error. id:
+2025-07-01 10:09:14,689  INFO      1528824400223
+2025-07-01 10:09:24,812  INFO      [ClientStub] send request error. id:
+2025-07-01 10:09:24,813  INFO      1538952429202
+2025-07-01 10:09:24,813  INFO      height 0.22 m → FSM None   mode None
+2025-07-01 10:09:34,937  INFO      [ClientStub] send request error. id:
+2025-07-01 10:09:34,937  INFO      1549076411832
+2025-07-01 10:09:45,063  INFO      [ClientStub] send request error. id:
+2025-07-01 10:09:45,063  INFO      1559200794844
+2025-07-01 10:09:55,185  INFO      [ClientStub] send request error. id:
+2025-07-01 10:09:55,186  INFO      1569326705881
+2025-07-01 10:10:05,304  INFO      [ClientStub] send request error. id:
+2025-07-01 10:10:05,304  INFO      1579449229818
+2025-07-01 10:10:05,304  INFO      height 0.24 m → FSM None   mode None
+2025-07-01 10:10:15,427  INFO      [ClientStub] send request error. id:
+2025-07-01 10:10:15,428  INFO      1589567297110
+2025-07-01 10:10:25,555  INFO      [ClientStub] send request error. id:
+2025-07-01 10:10:25,556  INFO      1599691457322
+2025-07-01 10:10:35,678  INFO      [ClientStub] send request error. id:
+2025-07-01 10:10:35,678  INFO      1609819176296
+2025-07-01 10:10:45,806  INFO      [ClientStub] send request error. id:
+2025-07-01 10:10:45,807  INFO      1619941902409
+2025-07-01 10:10:45,807  INFO      height 0.26 m → FSM None   mode None
+2025-07-01 10:10:55,935  INFO      [ClientStub] send request error. id:
+2025-07-01 10:10:55,935  INFO      1630070392453
+2025-07-01 10:11:06,062  INFO      [ClientStub] send request error. id:
+2025-07-01 10:11:06,062  INFO      1640198578140
+2025-07-01 10:11:16,185  INFO      [ClientStub] send request error. id:
+2025-07-01 10:11:16,186  INFO      1650325693829
+2025-07-01 10:11:26,309  INFO      [ClientStub] send request error. id:
+2025-07-01 10:11:26,309  INFO      1660449020077
+2025-07-01 10:11:26,309  INFO      height 0.28 m → FSM None   mode None
+2025-07-01 10:11:36,434  INFO      [ClientStub] send request error. id:
+2025-07-01 10:11:36,434  INFO      1670572891803
+2025-07-01 10:11:46,559  INFO      [ClientStub] send request error. id:
+2025-07-01 10:11:46,560  INFO      1680697835200
+2025-07-01 10:11:56,685  INFO      [ClientStub] send request error. id:
+2025-07-01 10:11:56,685  INFO      1690823232826
+2025-07-01 10:12:06,808  INFO      [ClientStub] send request error. id:
+2025-07-01 10:12:06,808  INFO      1700948598645
+2025-07-01 10:12:06,808  INFO      height 0.30 m → FSM None   mode None
+2025-07-01 10:12:16,935  INFO      [ClientStub] send request error. id:
+2025-07-01 10:12:16,936  INFO      1711071471402
+2025-07-01 10:13:21,833  INFO      [ClientStub] send request error. id:
+2025-07-01 10:13:21,834  INFO      1775967631370
+2025-07-01 10:13:31,963  INFO      [ClientStub] send request error. id:
+2025-07-01 10:13:31,964  INFO      1786096988532
+2025-07-01 10:13:42,093  INFO      [ClientStub] send request error. id:
+2025-07-01 10:13:42,094  INFO      1796227081312
+2025-07-01 10:13:52,220  INFO      [ClientStub] send request error. id:
+2025-07-01 10:13:52,221  INFO      1806357031593
+2025-07-01 10:14:02,345  INFO      [ClientStub] send request error. id:
+2025-07-01 10:14:02,346  INFO      1816484245634
+2025-07-01 10:14:02,346  INFO      damp         → FSM None   mode None
+2025-07-01 10:14:12,469  INFO      [ClientStub] send request error. id:
+2025-07-01 10:14:12,469  INFO      1826609214243
+2025-07-01 10:14:22,594  INFO      [ClientStub] send request error. id:
+2025-07-01 10:14:22,594  INFO      1836732301809
+2025-07-01 10:14:32,718  INFO      [ClientStub] send request error. id:
+2025-07-01 10:14:32,718  INFO      1846857846103
+2025-07-01 10:14:32,718  INFO      stand_up     → FSM None   mode None
+2025-07-01 10:22:09,211  INFO      [ClientStub] send request error. id:
+2025-07-01 10:22:09,211  INFO      2303343226930
+2025-07-01 10:22:19,338  INFO      [ClientStub] send request error. id:
+2025-07-01 10:22:19,339  INFO      2313474598309
+2025-07-01 10:22:29,468  INFO      [ClientStub] send request error. id:
+2025-07-01 10:22:29,468  INFO      2323602095417
+2025-07-01 10:22:39,589  INFO      [ClientStub] send request error. id:
+2025-07-01 10:22:39,589  INFO      2333731435745
+2025-07-01 10:22:49,715  INFO      [ClientStub] send request error. id:
+2025-07-01 10:22:49,715  INFO      2343852627186
+2025-07-01 10:22:49,716  INFO      damp         → FSM None   mode None
+2025-07-01 10:22:59,838  INFO      [ClientStub] send request error. id:
+2025-07-01 10:22:59,838  INFO      2353979106716
+2025-07-01 10:23:09,961  INFO      [ClientStub] send request error. id:
+2025-07-01 10:23:09,961  INFO      2364101590538
+2025-07-01 10:23:20,083  INFO      [ClientStub] send request error. id:
+2025-07-01 10:23:20,084  INFO      2374224656159
+2025-07-01 10:23:20,084  INFO      stand_up     → FSM None   mode None
+2025-07-01 10:23:30,205  INFO      [ClientStub] send request error. id:
+2025-07-01 10:23:30,205  INFO      2384347651064
+2025-07-01 10:23:40,331  INFO      [ClientStub] send request error. id:
+2025-07-01 10:23:40,332  INFO      2394468978876
+2025-07-01 10:23:50,453  INFO      [ClientStub] send request error. id:
+2025-07-01 10:23:50,453  INFO      2404595185520
+2025-07-01 10:23:50,453  INFO      height 0.02 m → FSM None   mode None
+2025-07-01 10:24:00,577  INFO      [ClientStub] send request error. id:
+2025-07-01 10:24:00,577  INFO      2414716774710
+2025-07-01 10:24:10,702  INFO      [ClientStub] send request error. id:
+2025-07-01 10:24:10,702  INFO      2424840901663
+2025-07-01 10:24:20,825  INFO      [ClientStub] send request error. id:
+2025-07-01 10:24:20,826  INFO      2434965614424
+2025-07-01 10:24:30,950  INFO      [ClientStub] send request error. id:
+2025-07-01 10:24:30,951  INFO      2445089190692
+2025-07-01 10:24:30,951  INFO      height 0.04 m → FSM None   mode None
+2025-07-01 10:24:41,072  INFO      [ClientStub] send request error. id:
+2025-07-01 10:24:41,072  INFO      2455214123341
+2025-07-01 10:24:51,198  INFO      [ClientStub] send request error. id:
+2025-07-01 10:24:51,199  INFO      2465335927599
+2025-07-01 10:25:01,322  INFO      [ClientStub] send request error. id:
+2025-07-01 10:25:01,323  INFO      2475462155361
+2025-07-01 10:25:11,452  INFO      [ClientStub] send request error. id:
+2025-07-01 10:25:11,452  INFO      2485586314375
+2025-07-01 10:25:11,452  INFO      height 0.06 m → FSM None   mode None
+2025-07-01 10:25:21,582  INFO      [ClientStub] send request error. id:
+2025-07-01 10:25:21,582  INFO      2495715711267
+2025-07-01 10:25:31,707  INFO      [ClientStub] send request error. id:
+2025-07-01 10:25:31,707  INFO      2505845425620
+2025-07-01 10:25:41,840  INFO      [ClientStub] send request error. id:
+2025-07-01 10:25:41,840  INFO      2515970703973
+2025-07-01 10:25:51,970  INFO      [ClientStub] send request error. id:
+2025-07-01 10:25:51,970  INFO      2526103886631
+2025-07-01 10:25:51,970  INFO      height 0.08 m → FSM None   mode None
+2025-07-01 10:26:02,098  INFO      [ClientStub] send request error. id:
+2025-07-01 10:26:02,098  INFO      2536233904494
+2025-07-01 10:26:12,228  INFO      [ClientStub] send request error. id:
+2025-07-01 10:26:12,228  INFO      2546361842583
+2025-07-01 10:26:22,358  INFO      [ClientStub] send request error. id:
+2025-07-01 10:26:22,358  INFO      2556491726009
+2025-07-01 10:26:32,488  INFO      [ClientStub] send request error. id:
+2025-07-01 10:26:32,489  INFO      2566621700107
+2025-07-01 10:26:32,489  INFO      height 0.10 m → FSM None   mode None
+2025-07-01 10:26:42,616  INFO      [ClientStub] send request error. id:
+2025-07-01 10:26:42,616  INFO      2576752354579
+2025-07-01 10:26:52,744  INFO      [ClientStub] send request error. id:
+2025-07-01 10:26:52,744  INFO      2586879479131
+2025-07-07 11:14:51,122  ERROR     [run_geoff_gui] Tele-op disabled:
+2025-07-07 11:14:51,122  ERROR     No module named 'unitree_sdk2py'
+2025-07-07 11:14:51,123  ERROR     [run_geoff_gui] Arm control disabled:
+2025-07-07 11:14:51,123  ERROR     No module named 'unitree_sdk2py'
+2025-07-07 11:14:51,123  ERROR     [run_geoff_gui] Dex3 hand control disabled:
+2025-07-07 11:14:51,123  ERROR     No module named 'unitree_sdk2py'
+2025-07-07 11:14:51,183  ERROR     [run_geoff_stack] RealSense receiver disabled:
+2025-07-07 11:14:51,194  ERROR     No module named 'gi'
+2025-07-07 11:14:51,195  ERROR     [run_geoff_gui] Battery monitor disabled:
+2025-07-07 11:14:51,195  ERROR     No module named 'unitree_sdk2py'
+2025-07-07 11:19:35,197  INFO      [ChannelFactory] create domain error. msg:
+2025-07-07 11:19:35,197  INFO      Occurred upon initialisation of a cyclonedds.domain.Domain
+2025-07-07 11:19:35,197  ERROR     [run_geoff_gui] Tele-op disabled:
+2025-07-07 11:19:35,197  ERROR     channel factory init error.
+2025-07-07 11:19:35,216  ERROR     [run_geoff_gui] Arm control disabled:
+2025-07-07 11:19:35,216  ERROR     'NoneType' object has no attribute '_ref'
+2025-07-07 11:19:35,216  ERROR     [run_geoff_gui] Dex3 hand control disabled:
+2025-07-07 11:19:35,216  ERROR     No module named 'unitree_sdk2py.dex3'
+2025-07-07 11:19:35,218  ERROR     [run_geoff_stack] RealSense receiver disabled:
+2025-07-07 11:19:35,221  ERROR     No module named 'gi'
+2025-07-07 11:19:35,342  INFO      [ChannelFactory] create domain error. msg:
+2025-07-07 11:19:35,343  INFO      Occurred upon initialisation of a cyclonedds.domain.Domain
+2025-07-07 11:19:35,343  ERROR     [run_geoff_gui] Battery monitor disabled:
+2025-07-07 11:19:35,343  ERROR     Could not subscribe to any battery SOC topic
+2025-07-07 11:20:56,936  INFO      [ClientStub] send request error. id:
+2025-07-07 11:20:56,937  INFO      4835083560680
+2025-07-07 11:21:07,054  INFO      [ClientStub] send request error. id:
+2025-07-07 11:21:07,054  INFO      4845202240762
+2025-07-07 11:21:17,171  INFO      [ClientStub] send request error. id:
+2025-07-07 11:21:17,172  INFO      4855319601224
+2025-07-07 11:21:27,289  INFO      [ClientStub] send request error. id:
+2025-07-07 11:21:27,289  INFO      4865436980540
+2025-07-07 11:21:37,407  INFO      [ClientStub] send request error. id:
+2025-07-07 11:21:37,408  INFO      4875554226287
+2025-07-07 11:21:37,408  INFO      damp         → FSM None   mode None
+2025-07-07 11:21:47,526  INFO      [ClientStub] send request error. id:
+2025-07-07 11:21:47,527  INFO      4885673322641
+2025-07-07 11:21:57,645  INFO      [ClientStub] send request error. id:
+2025-07-07 11:21:57,646  INFO      4895792024769
+2025-07-07 11:22:07,763  INFO      [ClientStub] send request error. id:
+2025-07-07 11:22:07,764  INFO      4905910813949
+2025-07-07 11:22:07,764  INFO      stand_up     → FSM None   mode None
+2025-07-07 11:22:17,882  INFO      [ClientStub] send request error. id:
+2025-07-07 11:22:17,882  INFO      4916029098753
+2025-07-07 11:22:28,000  INFO      [ClientStub] send request error. id:
+2025-07-07 11:22:28,001  INFO      4926147648894
+2025-07-07 11:22:38,119  INFO      [ClientStub] send request error. id:
+2025-07-07 11:22:38,120  INFO      4936265821709
+2025-07-07 11:22:38,120  INFO      height 0.02 m → FSM None   mode None
+2025-07-07 11:22:48,238  INFO      [ClientStub] send request error. id:
+2025-07-07 11:22:48,238  INFO      4946385307094
+2025-07-07 11:22:58,356  INFO      [ClientStub] send request error. id:
+2025-07-07 11:22:58,357  INFO      4956503370127
+2025-07-07 11:23:08,475  INFO      [ClientStub] send request error. id:
+2025-07-07 11:23:08,475  INFO      4966621855892
+2025-07-07 11:23:18,593  INFO      [ClientStub] send request error. id:
+2025-07-07 11:23:18,593  INFO      4976740071249
+2025-07-07 11:23:18,594  INFO      height 0.04 m → FSM None   mode None
+2025-07-07 11:23:28,712  INFO      [ClientStub] send request error. id:
+2025-07-07 11:23:28,712  INFO      4986858865668
+2025-07-07 11:23:38,830  INFO      [ClientStub] send request error. id:
+2025-07-07 11:23:38,831  INFO      4996977494694
+2025-07-07 11:23:48,945  INFO      [ClientStub] send request error. id:
+2025-07-07 11:23:48,945  INFO      5007095783090
+2025-07-07 11:23:59,060  INFO      [ClientStub] send request error. id:
+2025-07-07 11:23:59,060  INFO      5017210209873
+2025-07-07 11:23:59,060  INFO      height 0.06 m → FSM None   mode None
+2025-07-07 11:24:09,176  INFO      [ClientStub] send request error. id:
+2025-07-07 11:24:09,177  INFO      5027325540599
+2025-07-07 11:24:19,294  INFO      [ClientStub] send request error. id:
+2025-07-07 11:24:19,294  INFO      5037441900200
+2025-07-07 11:24:29,412  INFO      [ClientStub] send request error. id:
+2025-07-07 11:24:29,412  INFO      5047559335311
+2025-07-07 11:24:39,530  INFO      [ClientStub] send request error. id:
+2025-07-07 11:24:39,531  INFO      5057677601687
+2025-07-07 11:24:39,531  INFO      height 0.08 m → FSM None   mode None
+2025-07-07 11:24:49,648  INFO      [ClientStub] send request error. id:
+2025-07-07 11:24:49,649  INFO      5067796019208
+2025-07-07 11:24:59,766  INFO      [ClientStub] send request error. id:
+2025-07-07 11:24:59,767  INFO      5077914105570
+2025-07-07 11:25:09,884  INFO      [ClientStub] send request error. id:
+2025-07-07 11:25:09,884  INFO      5088031918609
+2025-07-07 11:25:20,002  INFO      [ClientStub] send request error. id:
+2025-07-07 11:25:20,002  INFO      5098149090107
+2025-07-07 11:25:20,002  INFO      height 0.10 m → FSM None   mode None
+2025-07-07 11:25:30,119  INFO      [ClientStub] send request error. id:
+2025-07-07 11:25:30,119  INFO      5108267289932
+2025-07-07 11:25:40,237  INFO      [ClientStub] send request error. id:
+2025-07-07 11:25:40,237  INFO      5118383958102
+2025-07-07 11:25:50,353  INFO      [ClientStub] send request error. id:
+2025-07-07 11:25:50,354  INFO      5128502187517

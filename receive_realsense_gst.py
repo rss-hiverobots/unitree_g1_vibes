@@ -84,8 +84,10 @@ def main() -> None:
 
     try:
         while True:
+
             sample_rgb = rgb_sink.emit("try-pull-sample", Gst.SECOND // FPS)
             sample_d = depth_sink.emit("try-pull-sample", Gst.SECOND // FPS)
+            print("sample_rgb:", bool(sample_rgb), "sample_d:", bool(sample_d))
 
             if not sample_rgb or not sample_d:
                 # No frame yet – avoid busy loop
